@@ -24,4 +24,4 @@ gki-android15-6.6=
 gki-android16-6.12=
 # ==================== SukiSU 的 commit hash ====================
 # 仅当 custom=true 且使用 SukiSU 变体时生效
-sukisu=e291281
+sukisu=
